@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tgJISFBw8SHJXg2d3QOedhBaOm3tLAzn25VvKWxAMQiI30Bd7dh7SnKM66YmhzmTS/fA+Zs8y/bU7YI2PK3jgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\Fundamental\\Array\\Question4\\Question 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\bin\Debug\net5.0\Question 21.exe
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\bin\Debug\net5.0\Question 21.deps.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\bin\Debug\net5.0\Question 21.runtimeconfig.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\bin\Debug\net5.0\Question 21.runtimeconfig.dev.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\bin\Debug\net5.0\Question 21.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\bin\Debug\net5.0\ref\Question 21.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\bin\Debug\net5.0\Question 21.pdb
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\Question 21.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\Question 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\Question 21.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\Question 21.AssemblyInfo.cs
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\Question 21.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\Question 21.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\ref\Question 21.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\Question 21.pdb
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 21\obj\Debug\net5.0\Question 21.genruntimeconfig.cache

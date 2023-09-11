@@ -1,0 +1,32 @@
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\bin\Debug\net5.0\Question 9.exe
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\bin\Debug\net5.0\Question 9.deps.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\bin\Debug\net5.0\Question 9.runtimeconfig.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\bin\Debug\net5.0\Question 9.runtimeconfig.dev.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\bin\Debug\net5.0\Question 9.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\bin\Debug\net5.0\ref\Question 9.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\bin\Debug\net5.0\Question 9.pdb
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\Question 9.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\Question 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\Question 9.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\Question 9.AssemblyInfo.cs
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\Question 9.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\Question 9.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\ref\Question 9.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\Question 9.pdb
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 9\obj\Debug\net5.0\Question 9.genruntimeconfig.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\bin\Debug\net5.0\Question 9.exe
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\bin\Debug\net5.0\Question 9.deps.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\bin\Debug\net5.0\Question 9.runtimeconfig.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\bin\Debug\net5.0\Question 9.runtimeconfig.dev.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\bin\Debug\net5.0\Question 9.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\bin\Debug\net5.0\ref\Question 9.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\bin\Debug\net5.0\Question 9.pdb
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\Question 9.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\Question 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\Question 9.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\Question 9.AssemblyInfo.cs
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\Question 9.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\Question 9.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\ref\Question 9.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\Question 9.pdb
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 9\obj\Debug\net5.0\Question 9.genruntimeconfig.cache

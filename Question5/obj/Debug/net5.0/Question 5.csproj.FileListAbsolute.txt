@@ -1,0 +1,47 @@
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\bin\Debug\net5.0\Question 5.exe
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\bin\Debug\net5.0\Question 5.deps.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\bin\Debug\net5.0\Question 5.runtimeconfig.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\bin\Debug\net5.0\Question 5.runtimeconfig.dev.json
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\bin\Debug\net5.0\Question 5.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\bin\Debug\net5.0\ref\Question 5.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\bin\Debug\net5.0\Question 5.pdb
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\Question 5.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\Question 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\Question 5.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\Question 5.AssemblyInfo.cs
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\Question 5.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\Question 5.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\ref\Question 5.dll
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\Question 5.pdb
+C:\Users\user\Documents\Git\Fundamental Chapter 7\Question 5\obj\Debug\net5.0\Question 5.genruntimeconfig.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\bin\Debug\net5.0\Question 5.exe
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\bin\Debug\net5.0\Question 5.deps.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\bin\Debug\net5.0\Question 5.runtimeconfig.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\bin\Debug\net5.0\Question 5.runtimeconfig.dev.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\bin\Debug\net5.0\Question 5.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\bin\Debug\net5.0\ref\Question 5.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\bin\Debug\net5.0\Question 5.pdb
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\Question 5.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\Question 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\Question 5.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\Question 5.AssemblyInfo.cs
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\Question 5.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\Question 5.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\ref\Question 5.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\Question 5.pdb
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Array\Question 5\obj\Debug\net5.0\Question 5.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\bin\Debug\net5.0\Question 5.exe
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\bin\Debug\net5.0\Question 5.deps.json
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\bin\Debug\net5.0\Question 5.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\bin\Debug\net5.0\Question 5.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\bin\Debug\net5.0\Question 5.dll
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\bin\Debug\net5.0\Question 5.pdb
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\Question 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\Question 5.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\Question 5.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\Question 5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\Question 5.dll
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\refint\Question 5.dll
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\Question 5.pdb
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\Question 5.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Fundamental\Array\Question5\obj\Debug\net5.0\ref\Question 5.dll
